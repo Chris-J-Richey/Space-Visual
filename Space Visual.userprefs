@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Spawn.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DestroyByTime.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="12" Column="4" />
+      <File FileName="Assets\Scripts\Spawn.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\Movement.cs" Line="5" Column="45" />
+      <File FileName="Assets\Scripts\AsteroidMover.cs" Line="3" Column="13" />
+      <File FileName="Assets\Scripts\Euler.cs" Line="18" Column="4" />
+      <File FileName="Assets\Scripts\Jitter.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\Straight.cs" Line="9" Column="42" />
+      <File FileName="Assets\Scripts\Gravity.cs" Line="30" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
